@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="520" viewBox="0 0 320 520">
+  <rect width="100%" height="100%" fill="#faf8f4" />
+  <g fill="none" stroke="#111111" stroke-width="1.4">
+  <rect x="60.00" y="60.00" width="40" height="40" transform="translate(-0.00 -0.00) rotate(-0.00 80.00 80.00)" />
+  <rect x="100.00" y="60.00" width="40" height="40" transform="translate(-0.00 -0.00) rotate(0.00 120.00 80.00)" />
+  <rect x="140.00" y="60.00" width="40" height="40" transform="translate(0.00 -0.00) rotate(0.00 160.00 80.00)" />
+  <rect x="180.00" y="60.00" width="40" height="40" transform="translate(0.00 0.00) rotate(-0.00 200.00 80.00)" />
+  <rect x="220.00" y="60.00" width="40" height="40" transform="translate(0.00 -0.00) rotate(-0.00 240.00 80.00)" />
+  <rect x="60.00" y="100.00" width="40" height="40" transform="translate(-0.10 0.12) rotate(-0.02 80.00 120.00)" />
+  <rect x="100.00" y="100.00" width="40" height="40" transform="translate(0.15 0.11) rotate(0.10 120.00 120.00)" />
+  <rect x="140.00" y="100.00" width="40" height="40" transform="translate(0.02 -0.15) rotate(-0.42 160.00 120.00)" />
+  <rect x="180.00" y="100.00" width="40" height="40" transform="translate(-0.07 0.10) rotate(0.25 200.00 120.00)" />
+  <rect x="220.00" y="100.00" width="40" height="40" transform="translate(-0.19 -0.09) rotate(-0.29 240.00 120.00)" />
+  <rect x="60.00" y="140.00" width="40" height="40" transform="translate(-0.49 0.58) rotate(-0.36 80.00 160.00)" />
+  <rect x="100.00" y="140.00" width="40" height="40" transform="translate(-0.18 -0.06) rotate(-0.49 120.00 160.00)" />
+  <rect x="140.00" y="140.00" width="40" height="40" transform="translate(-0.21 0.63) rotate(-1.29 160.00 160.00)" />
+  <rect x="180.00" y="140.00" width="40" height="40" transform="translate(0.56 -0.48) rotate(0.83 200.00 160.00)" />
+  <rect x="220.00" y="140.00" width="40" height="40" transform="translate(-0.39 0.25) rotate(-0.29 240.00 160.00)" />
+  <rect x="60.00" y="180.00" width="40" height="40" transform="translate(1.26 -0.92) rotate(2.46 80.00 200.00)" />
+  <rect x="100.00" y="180.00" width="40" height="40" transform="translate(1.51 -0.48) rotate(3.96 120.00 200.00)" />
+  <rect x="140.00" y="180.00" width="40" height="40" transform="translate(-0.38 1.61) rotate(1.98 160.00 200.00)" />
+  <rect x="180.00" y="180.00" width="40" height="40" transform="translate(1.31 1.61) rotate(-0.15 200.00 200.00)" />
+  <rect x="220.00" y="180.00" width="40" height="40" transform="translate(-1.38 0.55) rotate(3.12 240.00 200.00)" />
+  <rect x="60.00" y="220.00" width="40" height="40" transform="translate(1.17 -2.76) rotate(5.55 80.00 240.00)" />
+  <rect x="100.00" y="220.00" width="40" height="40" transform="translate(-3.19 -0.34) rotate(2.95 120.00 240.00)" />
+  <rect x="140.00" y="220.00" width="40" height="40" transform="translate(0.33 0.24) rotate(5.32 160.00 240.00)" />
+  <rect x="180.00" y="220.00" width="40" height="40" transform="translate(1.42 1.64) rotate(-5.04 200.00 240.00)" />
+  <rect x="220.00" y="220.00" width="40" height="40" transform="translate(2.25 2.67) rotate(-1.65 240.00 240.00)" />
+  <rect x="60.00" y="260.00" width="40" height="40" transform="translate(0.52 -0.78) rotate(-3.71 80.00 280.00)" />
+  <rect x="100.00" y="260.00" width="40" height="40" transform="translate(2.95 -1.96) rotate(7.36 120.00 280.00)" />
+  <rect x="140.00" y="260.00" width="40" height="40" transform="translate(0.81 -1.24) rotate(9.19 160.00 280.00)" />
+  <rect x="180.00" y="260.00" width="40" height="40" transform="translate(-4.99 4.88) rotate(8.39 200.00 280.00)" />
+  <rect x="220.00" y="260.00" width="40" height="40" transform="translate(3.10 -1.57) rotate(8.43 240.00 280.00)" />
+  <rect x="60.00" y="300.00" width="40" height="40" transform="translate(4.93 5.35) rotate(-2.22 80.00 320.00)" />
+  <rect x="100.00" y="300.00" width="40" height="40" transform="translate(-6.45 -1.15) rotate(-4.10 120.00 320.00)" />
+  <rect x="140.00" y="300.00" width="40" height="40" transform="translate(4.57 -5.96) rotate(10.07 160.00 320.00)" />
+  <rect x="180.00" y="300.00" width="40" height="40" transform="translate(6.61 -5.92) rotate(-0.28 200.00 320.00)" />
+  <rect x="220.00" y="300.00" width="40" height="40" transform="translate(-5.99 0.27) rotate(-0.14 240.00 320.00)" />
+  <rect x="60.00" y="340.00" width="40" height="40" transform="translate(6.40 9.80) rotate(15.24 80.00 360.00)" />
+  <rect x="100.00" y="340.00" width="40" height="40" transform="translate(7.82 3.59) rotate(-8.24 120.00 360.00)" />
+  <rect x="140.00" y="340.00" width="40" height="40" transform="translate(-9.37 5.87) rotate(-16.04 160.00 360.00)" />
+  <rect x="180.00" y="340.00" width="40" height="40" transform="translate(-0.30 3.44) rotate(-3.45 200.00 360.00)" />
+  <rect x="220.00" y="340.00" width="40" height="40" transform="translate(-0.63 8.37) rotate(10.37 240.00 360.00)" />
+  <rect x="60.00" y="380.00" width="40" height="40" transform="translate(-4.38 -2.88) rotate(-19.99 80.00 400.00)" />
+  <rect x="100.00" y="380.00" width="40" height="40" transform="translate(-4.26 -3.87) rotate(-23.33 120.00 400.00)" />
+  <rect x="140.00" y="380.00" width="40" height="40" transform="translate(-4.04 0.03) rotate(18.24 160.00 400.00)" />
+  <rect x="180.00" y="380.00" width="40" height="40" transform="translate(-3.54 -9.97) rotate(-6.96 200.00 400.00)" />
+  <rect x="220.00" y="380.00" width="40" height="40" transform="translate(-5.85 -11.38) rotate(6.21 240.00 400.00)" />
+  <rect x="60.00" y="420.00" width="40" height="40" transform="translate(3.92 -11.41) rotate(25.06 80.00 440.00)" />
+  <rect x="100.00" y="420.00" width="40" height="40" transform="translate(-12.14 9.07) rotate(14.21 120.00 440.00)" />
+  <rect x="140.00" y="420.00" width="40" height="40" transform="translate(-10.60 10.02) rotate(-21.47 160.00 440.00)" />
+  <rect x="180.00" y="420.00" width="40" height="40" transform="translate(13.04 12.06) rotate(8.22 200.00 440.00)" />
+  <rect x="220.00" y="420.00" width="40" height="40" transform="translate(-14.59 6.87) rotate(20.63 240.00 440.00)" />
+  </g>
+</svg>
